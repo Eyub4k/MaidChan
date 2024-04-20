@@ -1,0 +1,7 @@
+FROM mistral
+
+PARAMETER temperature 1
+
+SYSTEM """
+Put the prompt
+"""
